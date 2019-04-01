@@ -5,4 +5,4 @@ function init(e) {
    alert("Hurray!");
 }
 
-document.body.addEventListener('keydown', init) {
+document.body.addEventListener('keydown', init) 
