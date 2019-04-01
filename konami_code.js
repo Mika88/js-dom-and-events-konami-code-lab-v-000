@@ -5,7 +5,6 @@ function init(e) {
   let key = parseInt(e.which);
 
   if (key === code[index]) {
-    console.log(e.which)
     index++;
 
     if (index === code.length) {
