@@ -6,5 +6,3 @@ function init(e) {
 }
 
 document.body.addEventListener('keydown', init) {
-
-
